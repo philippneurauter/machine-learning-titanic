@@ -1,0 +1,190 @@
+pclass;name;sex;age;sibsp;parch;ticket;fare;cabin;embarked;boat;body;home.dest
+1;Allison, Master. Hudson Trevor;male;0,9167;1;2;113781;151,55;C22 C26;S;11;NA;Montreal, PQ / Chesterville, ON
+1;Allison, Mrs. Hudson J C (Bessie Waldo Daniels);female;25;1;2;113781;151,55;C22 C26;S;;NA;Montreal, PQ / Chesterville, ON
+1;Artagaveytia, Mr. Ramon;male;71;0;0;PC 17609;49,5042;;C;;22;Montevideo, Uruguay
+1;Aubart, Mme. Leontine Pauline;female;24;0;0;PC 17477;69,3;B35;C;9;NA;Paris, France
+1;Behr, Mr. Karl Howell;male;26;0;0;111369;30;C148;C;5;NA;New York, NY
+1;Bissette, Miss. Amelia;female;35;0;0;PC 17760;135,6333;C99;S;8;NA;
+1;Blank, Mr. Henry;male;40;0;0;112277;31;A31;C;7;NA;Glen Ridge, NJ
+1;Cairns, Mr. Alexander;male;42,42431193;0;0;113798;31;;S;;NA;
+1;Carter, Master. William Thornton II;male;11;1;2;113760;120;B96 B98;S;4;NA;Bryn Mawr, PA
+1;Carter, Miss. Lucile Polk;female;14;1;2;113760;120;B96 B98;S;4;NA;Bryn Mawr, PA
+1;Chambers, Mrs. Norman Campbell (Bertha Griggs);female;33;1;0;113806;53,1;E8;S;5;NA;New York, NY / Ithaca, NY
+1;Clifford, Mr. George Quincy;male;42,42431193;0;0;110465;52;A14;S;;NA;Stoughton, MA
+1;Farthing, Mr. John;male;42,42431193;0;0;PC 17483;221,7792;C95;S;;NA;
+1;Foreman, Mr. Benjamin Laventall;male;30;0;0;113051;27,75;C111;C;;NA;New York, NY
+1;Fortune, Miss. Alice Elizabeth;female;24;3;2;19950;263;C23 C25 C27;S;10;NA;Winnipeg, MB
+1;Francatelli, Miss. Laura Mabel;female;30;0;0;PC 17485;56,9292;E36;C;1;NA;
+1;Harrington, Mr. Charles H;male;42,42431193;0;0;113796;42,4;;S;;NA;
+1;Hawksford, Mr. Walter James;male;42,42431193;0;0;16988;30;D45;S;3;NA;Kingston, Surrey
+1;Icard, Miss. Amelie;female;38;0;0;113572;80;B28;;6;NA;
+1;Isham, Miss. Ann Elizabeth;female;50;0;0;PC 17595;28,7125;C49;C;;NA;Paris, France New York, NY
+1;Klaber, Mr. Herman;male;42,42431193;0;0;113028;26,55;C124;S;;NA;Portland, OR
+1;Lewy, Mr. Ervin G;male;42,42431193;0;0;PC 17612;27,7208;;C;;NA;Chicago, IL
+1;Meyer, Mrs. Edgar Joseph (Leila Saks);female;42,42431193;1;0;PC 17604;82,1708;;C;6;NA;New York, NY
+1;Minahan, Miss. Daisy E;female;33;1;0;19928;90;C78;Q;14;NA;Green Bay, WI
+1;Nicholson, Mr. Arthur Ernest;male;64;0;0;693;26;;S;;263;Isle of Wight, England
+1;Penasco y Castellana, Mr. Victor de Satode;male;18;1;0;PC 17758;108,9;C65;C;;NA;Madrid, Spain
+1;Robbins, Mr. Victor;male;42,42431193;0;0;PC 17757;227,525;;C;;NA;
+1;Roebling, Mr. Washington Augustus II;male;31;0;0;PC 17590;50,4958;A24;S;;NA;Trenton, NJ
+1;Rood, Mr. Hugh Roscoe;male;42,42431193;0;0;113767;50;A32;S;;NA;Seattle, WA
+1;Rothschild, Mrs. Martin (Elizabeth L. Barrett);female;54;1;0;PC 17603;59,4;;C;6;NA;New York, NY
+1;Saalfeld, Mr. Adolphe;male;42,42431193;0;0;19988;30,5;C106;S;3;NA;Manchester, England
+1;Sagesser, Mlle. Emma;female;24;0;0;PC 17477;69,3;B35;C;9;NA;
+1;Simonius-Blumer, Col. Oberst Alfons;male;56;0;0;13213;35,5;A26;C;3;NA;Basel, Switzerland
+1;Smart, Mr. John Montgomery;male;56;0;0;113792;26,55;;S;;NA;New York, NY
+1;Smith, Mr. Richard William;male;42,42431193;0;0;113056;26;A19;S;;NA;Streatham, Surrey
+1;Stahelin-Maeglin, Dr. Max;male;32;0;0;13214;30,5;B50;C;3;NA;Basel, Switzerland
+1;Stephenson, Mrs. Walter Bertram (Martha Eustis);female;52;1;0;36947;78,2667;D20;C;4;NA;Haverford, PA
+1;Stewart, Mr. Albert A;male;42,42431193;0;0;PC 17605;27,7208;;C;;NA;Gallipolis, Ohio / ? Paris / New York
+1;Taussig, Mrs. Emil (Tillie Mandelbaum);female;39;1;1;110413;79,65;E67;S;8;NA;New York, NY
+1;Taylor, Mr. Elmer Zebley;male;48;1;0;19996;52;C126;S;5 7;NA;London /  East Orange, NJ
+1;White, Mr. Percival Wayland;male;54;0;1;35281;77,2875;D26;S;;NA;Brunswick, ME
+1;Wick, Miss. Mary Natalie;female;31;0;2;36928;164,8667;C7;S;8;NA;Youngstown, OH
+1;Williams-Lambert, Mr. Fletcher Fellows;male;42,42431193;0;0;113510;35;C128;S;;NA;London, England
+1;Young, Miss. Marie Grice;female;36;0;0;PC 17760;135,6333;C32;C;8;NA;New York, NY / Washington, DC
+2;Abelson, Mrs. Samuel (Hannah Wizosky);female;28;1;0;P/PP 3381;24;;C;10;NA;Russia New York, NY
+2;Banfield, Mr. Frederick James;male;28;0;0;C.A./SOTON 34068;10,5;;S;;NA;Plymouth, Dorset / Houghton, MI
+2;Bateman, Rev. Robert James;male;51;0;0;S.O.P. 1166;12,525;;S;;174;Jacksonville, FL
+2;Beane, Mrs. Edward (Ethel Clarke);female;19;1;0;2908;26;;S;13;NA;Norwich / New York, NY
+2;Becker, Master. Richard F;male;1;2;1;230136;39;F4;S;11;NA;Guntur, India / Benton Harbour, MI
+2;Butler, Mr. Reginald Fenton;male;25;0;0;234686;13;;S;;97;Southsea, Hants
+2;Byles, Rev. Thomas Roussel Davids;male;42;0;0;244310;13;;S;;NA;London
+2;Bystrom, Mrs. (Karolina);female;42;0;0;236852;13;;S;;NA;New York, NY
+2;Carbines, Mr. William;male;19;0;0;28424;13;;S;;18;St Ives, Cornwall / Calumet, MI
+2;Chapman, Mr. John Henry;male;37;1;0;SC/AH 29037;26;;S;;17;Cornwall / Spokane, WA
+2;Coleridge, Mr. Reginald Charles;male;29;0;0;W./C. 14263;10,5;;S;;NA;Hartford, Huntingdonshire
+2;Collander, Mr. Erik Gustaf;male;28;0;0;248740;13;;S;;NA;Helsinki, Finland Ashtabula, Ohio
+2;Giles, Mr. Frederick Edward;male;21;1;0;28134;11,5;;S;;NA;Cornwall / Camden, NJ
+2;Hamalainen, Master. Viljo;male;0,6667;1;1;250649;14,5;;S;4;NA;Detroit, MI
+2;Hamalainen, Mrs. William (Anna);female;24;0;2;250649;14,5;;S;4;NA;Detroit, MI
+2;Harper, Rev. John;male;28;0;1;248727;33;;S;;NA;Denmark Hill, Surrey / Chicago
+2;Hart, Mrs. Benjamin (Esther Ada Bloomfield);female;45;1;1;F.C.C. 13529;26,25;;S;14;NA;Ilford, Essex / Winnipeg, MB
+2;Hodges, Mr. Henry Price;male;50;0;0;250643;13;;S;;149;Southampton
+2;Ilett, Miss. Bertha;female;17;0;0;SO/C 14885;10,5;;S;;NA;Guernsey
+2;Jacobsohn, Mr. Sidney Samuel;male;42;1;0;243847;27;;S;;NA;London
+2;Jenkin, Mr. Stephen Curnow;male;32;0;0;C.A. 33111;10,5;;S;;NA;St Ives, Cornwall / Houghton, MI
+2;Kirkland, Rev. Charles Leonard;male;57;0;0;219533;12,35;;Q;;NA;Glasgow / Bangor, ME
+2;Laroche, Miss. Simonne Marie Anne Andree;female;3;1;2;SC/Paris 2123;41,5792;;C;14;NA;Paris / Haiti
+2;Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue);female;22;1;2;SC/Paris 2123;41,5792;;C;14;NA;Paris / Haiti
+2;Levy, Mr. Rene Jacques;male;36;0;0;SC/Paris 2163;12,875;D;C;;NA;Montreal, PQ
+2;Louch, Mrs. Charles Alexander (Alice Adelaide Slow);female;42;1;0;SC/AH 3085;26;;S;;NA;Weston-Super-Mare, Somerset
+2;Mitchell, Mr. Henry Michael;male;70;0;0;C.A. 24580;10,5;;S;;NA;Guernsey / Montclair, NJ and/or Toledo, Ohio
+2;Montvila, Rev. Juozas;male;27;0;0;211536;13;;S;;NA;Worcester, MA
+2;Moraweck, Dr. Ernest;male;54;0;0;29011;14;;S;;NA;Frankfort, KY
+2;Otter, Mr. Richard;male;39;0;0;28213;13;;S;;NA;Middleburg Heights, OH
+2;Pain, Dr. Alfred;male;23;0;0;244278;10,5;;S;;NA;Hamilton, ON
+2;Pengelly, Mr. Frederick William;male;19;0;0;28665;10,5;;S;;NA;Gunnislake, England / Butte, MT
+2;Quick, Miss. Phyllis May;female;2;1;1;26360;26;;S;11;NA;Plymouth, Devon / Detroit, MI
+2;Rugg, Miss. Emily;female;21;0;0;C.A. 31026;10,5;;S;12;NA;Guernsey / Wilmington, DE
+2;Sinkkonen, Miss. Anna;female;30;0;0;250648;13;;S;10;NA;Finland / Washington, DC
+2;Sobey, Mr. Samuel James Hayden;male;25;0;0;C.A. 29178;13;;S;;NA;Cornwall / Houghton, MI
+2;Watson, Mr. Ennis Hastings;male;33,07711443;0;0;239856;0;;S;;NA;Belfast
+2;Wilhelms, Mr. Charles;male;31;0;0;244270;13;;S;9;NA;London, England
+3;Albimona, Mr. Nassef Cassem;male;26;0;0;2699;18,7875;;C;15;NA;Syria Fredericksburg, VA
+3;Andersson, Master. Sigvard Harald Elias;male;4;4;2;347082;31,275;;S;;NA;Sweden Winnipeg, MN
+3;Andersson, Miss. Ingeborg Constanzia;female;9;4;2;347082;31,275;;S;;NA;Sweden Winnipeg, MN
+3;Asim, Mr. Adola;male;35;0;0;SOTON/O.Q. 3101310;7,05;;S;;NA;
+3;Asplund, Master. Clarence Gustaf Hugo;male;9;4;2;347077;31,3875;;S;;NA;Sweden Worcester, MA
+3;Asplund, Master. Edvin Rojj Felix;male;3;4;2;347077;31,3875;;S;15;NA;Sweden Worcester, MA
+3;Barah, Mr. Hanna Assi;male;20;0;0;2663;7,2292;;C;15;NA;
+3;Barbara, Mrs. (Catherine David);female;45;0;1;2691;14,4542;;C;;NA;Syria Ottawa, ON
+3;Beavan, Mr. William Thomas;male;19;0;0;323951;8,05;;S;;NA;England
+3;Bengtsson, Mr. John Viktor;male;26;0;0;347068;7,775;;S;;NA;Krakudden, Sweden Moune, IL
+3;Birkeland, Mr. Hans Martin Monsen;male;21;0;0;312992;7,775;;S;;NA;Brennes, Norway New York
+3;Boulos, Mrs. Joseph (Sultana);female;28,86288089;0;2;2678;15,2458;;C;;NA;Syria Kent, ON
+3;Calic, Mr. Jovo;male;17;0;0;315093;8,6625;;S;;NA;
+3;Celotti, Mr. Francesco;male;24;0;0;343275;8,05;;S;;NA;London
+3;Chip, Mr. Chang;male;32;0;0;1601;56,4958;;S;C;NA;Hong Kong New York, NY
+3;Chronopoulos, Mr. Apostolos;male;26;1;0;2680;14,4542;;C;;NA;Greece
+3;Connaghton, Mr. Michael;male;31;0;0;335097;7,75;;Q;;NA;Ireland Brooklyn, NY
+3;Cook, Mr. Jacob;male;43;0;0;A/5 3536;8,05;;S;;NA;
+3;Davies, Mr. Alfred J;male;24;2;0;A/4 48871;24,15;;S;;NA;West Bromwich, England Pontiac, MI
+3;Davison, Mrs. Thomas Henry (Mary E Finck);female;28,86288089;1;0;386525;16,1;;S;16;NA;Liverpool, England Bedford, OH
+3;Denkoff, Mr. Mitto;male;28,86288089;0;0;349225;7,8958;;S;;NA;Bulgaria Coon Rapids, IA
+3;Dennis, Mr. Samuel;male;22;0;0;A/5 21172;7,25;;S;;NA;
+3;Doharr, Mr. Tannous;male;28,86288089;0;0;2686;7,2292;;C;;NA;
+3;Dooley, Mr. Patrick;male;32;0;0;370376;7,75;;Q;;NA;Ireland New York, NY
+3;Edvardsson, Mr. Gustaf Hjalmar;male;18;0;0;349912;7,775;;S;;NA;Tofta, Sweden Joliet, IL
+3;Eklund, Mr. Hans Linus;male;16;0;0;347074;7,775;;S;;NA;Karberg, Sweden Jerome Junction, AZ
+3;Ekstrom, Mr. Johan;male;45;0;0;347061;6,975;;S;;NA;Effington Rut, SD
+3;Elias, Mr. Joseph Jr;male;17;1;1;2690;7,2292;;C;;NA;
+3;Emir, Mr. Farred Chehab;male;28,86288089;0;0;2631;7,225;;C;;NA;
+3;Farrell, Mr. James;male;40,5;0;0;367232;7,75;;Q;;68;Aughnacliff, Co Longford, Ireland New York, NY
+3;Ford, Mr. William Neal;male;16;1;3;W./C. 6608;34,375;;S;;NA;Rotherfield, Sussex, England Essex Co, MA
+3;Glynn, Miss. Mary Agatha;female;22,3115942;0;0;335677;7,75;;Q;13;NA;Co Clare, Ireland Washington, DC
+3;Goldsmith, Mr. Frank John;male;33;1;1;363291;20,525;;S;;NA;Strood, Kent, England Detroit, MI
+3;Goodwin, Mrs. Frederick (Augusta Tyler);female;43;1;6;CA 2144;46,9;;S;;NA;Wiltshire, England Niagara Falls, NY
+3;Gustafsson, Mr. Alfred Ossian;male;20;0;0;7534;9,8458;;S;;NA;Waukegan, Chicago, IL
+3;Gustafsson, Mr. Johan Birger;male;28;2;0;3101277;7,925;;S;;NA;Ruotsinphytaa, Finland New York, NY
+3;Hanna, Mr. Mansour;male;23,5;0;0;2693;7,2292;;C;;188;
+3;Hansen, Mr. Henry Damsgaard;male;21;0;0;350029;7,8542;;S;;69;
+3;Honkanen, Miss. Eliina;female;27;0;0;STON/O2. 3101283;7,925;;S;;NA;
+3;Horgan, Mr. John;male;28,86288089;0;0;370377;7,75;;Q;;NA;
+3;Jansson, Mr. Carl Olof;male;21;0;0;350034;7,7958;;S;A;NA;
+3;Jardin, Mr. Jose Neto;male;28,86288089;0;0;SOTON/O.Q. 3101305;7,05;;S;;NA;
+3;Jensen, Mr. Hans Peder;male;20;0;0;350050;7,8542;;S;;NA;
+3;Jermyn, Miss. Annie;female;22,3115942;0;0;14313;7,75;;Q;D;NA;
+3;Johansson, Mr. Gustaf Joel;male;33;0;0;7540;8,6542;;S;;285;
+3;Johnson, Mr. Malkolm Joackim;male;33;0;0;347062;7,775;;S;;37;
+3;Jussila, Mr. Eiriik;male;32;0;0;STON/O 2. 3101286;7,925;;S;15;NA;
+3;Kallio, Mr. Nikolai Erland;male;17;0;0;STON/O 2. 3101274;7,125;;S;;NA;
+3;Karaic, Mr. Milan;male;30;0;0;349246;7,8958;;S;;NA;
+3;Keefe, Mr. Arthur;male;28,86288089;0;0;323592;7,25;;S;A;NA;
+3;Kink, Mr. Vincenz;male;26;2;0;315151;8,6625;;S;;NA;
+3;Kink-Heilmann, Miss. Luise Gretchen;female;4;0;2;315153;22,025;;S;2;NA;
+3;Klasen, Mr. Klas Albin;male;18;1;1;350404;7,8542;;S;;NA;
+3;Lam, Mr. Ali;male;28,86288089;0;0;1601;56,4958;;S;C;NA;
+3;Larsson, Mr. Bengt Edvin;male;29;0;0;347067;7,775;;S;;NA;
+3;Lefebre, Master. Henry Forbes;male;7,123786408;3;1;4133;25,4667;;S;;NA;
+3;Lindahl, Miss. Agda Thorilda Viktoria;female;25;0;0;347071;7,775;;S;;NA;
+3;Lindqvist, Mr. Eino William;male;20;1;0;STON/O 2. 3101285;7,925;;S;15;NA;
+3;Mannion, Miss. Margareth;female;22,3115942;0;0;36866;7,7375;;Q;16;NA;
+3;Markoff, Mr. Marin;male;35;0;0;349213;7,8958;;C;;NA;
+3;McCoy, Miss. Agnes;female;22,3115942;2;0;367226;23,25;;Q;16;NA;
+3;McMahon, Mr. Martin;male;28,86288089;0;0;370372;7,75;;Q;;NA;
+3;Mitkoff, Mr. Mito;male;28,86288089;0;0;349221;7,8958;;S;;NA;
+3;Moor, Master. Meier;male;6;0;1;392096;12,475;E121;S;14;NA;
+3;Moran, Mr. Daniel J;male;28,86288089;1;0;371110;24,15;;Q;;NA;
+3;Moran, Mr. James;male;28,86288089;0;0;330877;8,4583;;Q;;NA;
+3;Moussa, Mrs. (Mantoura Boulos);female;28,86288089;0;0;2626;7,2292;;C;;NA;
+3;Nicola-Yarred, Miss. Jamila;female;14;1;0;2651;11,2417;;C;C;NA;
+3;Novel, Mr. Mansouer;male;28,5;0;0;2697;7,2292;;C;;181;
+3;Olsen, Mr. Ole Martin;male;28,86288089;0;0;Fa 265302;7,3125;;S;;NA;
+3;Olsson, Miss. Elina;female;31;0;0;350407;7,8542;;S;;NA;
+3;Olsvigen, Mr. Thor Anderson;male;20;0;0;6563;9,225;;S;;89;Oslo, Norway Cameron, WI
+3;Palsson, Miss. Torborg Danira;female;8;3;1;349909;21,075;;S;;NA;
+3;Palsson, Mrs. Nils (Alma Cornelia Berglund);female;29;0;4;349909;21,075;;S;;206;
+3;Panula, Master. Eino Viljami;male;1;4;1;3101295;39,6875;;S;;NA;
+3;Pavlovic, Mr. Stefo;male;32;0;0;349242;7,8958;;S;;NA;
+3;Petterson, Mr. Johan Emil;male;25;1;0;347076;7,775;;S;;NA;
+3;Plotcharsky, Mr. Vasil;male;28,86288089;0;0;349227;7,8958;;S;;NA;
+3;Radeff, Mr. Alexander;male;28,86288089;0;0;349223;7,8958;;S;;NA;
+3;Rice, Master. Eric;male;7;4;1;382652;29,125;;Q;;NA;
+3;Robins, Mrs. Alexander A (Grace Charity Laury);female;47;1;0;A/5. 3337;14,5;;S;;7;
+3;Saad, Mr. Amin;male;28,86288089;0;0;2671;7,2292;;C;;NA;
+3;Sage, Mr. Frederick;male;28,86288089;8;2;CA. 2343;69,55;;S;;NA;
+3;Sage, Mr. George John Jr;male;28,86288089;8;2;CA. 2343;69,55;;S;;NA;
+3;Sandstrom, Miss. Marguerite Rut;female;4;1;1;PP 9549;16,7;G6;S;13;NA;
+3;Scanlan, Mr. James;male;28,86288089;0;0;36209;7,725;;Q;;NA;
+3;Simmons, Mr. John;male;28,86288089;0;0;SOTON/OQ 392082;8,05;;S;;NA;
+3;Sirayanian, Mr. Orsen;male;22;0;0;2669;7,2292;;C;;NA;
+3;Smiljanic, Mr. Mile;male;28,86288089;0;0;315037;8,6625;;S;;NA;
+3;Smith, Mr. Thomas;male;28,86288089;0;0;384461;7,75;;Q;;NA;
+3;Stanley, Miss. Amy Zillah Elsie;female;23;0;0;CA. 2314;7,55;;S;C;NA;
+3;Stoytcheff, Mr. Ilia;male;19;0;0;349205;7,8958;;S;;NA;
+3;Strandberg, Miss. Ida Sofia;female;22;0;0;7553;9,8375;;S;;NA;
+3;Svensson, Mr. Johan;male;74;0;0;347060;7,775;;S;;NA;
+3;Tobin, Mr. Roger;male;28,86288089;0;0;383121;7,75;F38;Q;;NA;
+3;Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert);female;30;1;1;345773;24,15;;S;;NA;
+3;Vander Cruyssen, Mr. Victor;male;47;0;0;345765;9;;S;;NA;
+3;Vestrom, Miss. Hulda Amanda Adolfina;female;14;0;0;350406;7,8542;;S;;NA;
+3;Vovk, Mr. Janko;male;22;0;0;349252;7,8958;;S;;NA;
+3;Waelens, Mr. Achille;male;22;0;0;345767;9;;S;;NA;Antwerp, Belgium / Stanton, OH
+3;Webber, Mr. James;male;28,86288089;0;0;SOTON/OQ 3101316;8,05;;S;;NA;
+3;Willey, Mr. Edward;male;28,86288089;0;0;S.O./P.P. 751;7,55;;S;;NA;
+3;Windelov, Mr. Einar;male;21;0;0;SOTON/OQ 3101317;7,25;;S;;NA;
+3;Wiseman, Mr. Phillippe;male;28,86288089;0;0;A/4. 34244;7,25;;S;;NA;
+3;Yousif, Mr. Wazli;male;28,86288089;0;0;2647;7,225;;C;;NA;
+3;Zabour, Miss. Hileni;female;14,5;1;0;2665;14,4542;;C;;328;
+3;Zabour, Miss. Thamine;female;22,3115942;1;0;2665;14,4542;;C;;NA;
